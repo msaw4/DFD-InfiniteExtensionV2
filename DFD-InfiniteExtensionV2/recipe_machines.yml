@@ -241,13 +241,12 @@ DFD_WJKPJQIDIAN: #机器ID
   recipes: #输出的材料
     WJTONGQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: COPPER_SINGULARITY
@@ -255,19 +254,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: COPPER_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJXINQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: ZINC_SINGULARITY
@@ -275,19 +277,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: ZINC_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJXIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: TIN_SINGULARITY
@@ -295,19 +300,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: TIN_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJLVQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: ALUMINUM_SINGULARITY
@@ -315,19 +323,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: ALUMINUM_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJYINQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: SILVER_SINGULARITY
@@ -335,19 +346,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: SILVER_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJMEIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: MAGNESIUM_SINGULARITY
@@ -355,19 +369,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: MAGNESIUM_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJQIANQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: LEAD_SINGULARITY
@@ -375,19 +392,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: LEAD_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJJINQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: GOLD_SINGULARITY
@@ -395,19 +415,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: GOLD_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJTIEQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: IRON_SINGULARITY
@@ -415,19 +438,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: IRON_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJZUANSHIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: DIAMOND_SINGULARITY
@@ -435,19 +461,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: DIAMOND_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJLVBAOSHIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: EMERALD_SINGULARITY
@@ -455,19 +484,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: EMERALD_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJXIAJIEHEJINQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: NETHERITE_SINGULARITY
@@ -475,19 +507,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: NETHERITE_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJMEITANQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: COAL_SINGULARITY
@@ -495,19 +530,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: COAL_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJHONGSHIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: REDSTONE_SINGULARITY
@@ -515,19 +553,22 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: REDSTONE_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJQINGJINSHIQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: LAPIS_SINGULARITY
@@ -536,18 +577,21 @@ DFD_WJKPJQIDIAN: #机器ID
       output:
         1:
           material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
+          material_type: slimefun
           material: LAPIS_SINGULARITY
           amount: 64
         #可添加更多输出物品
     WJSHIYINGQD:
       chooseOne: false #当chooseOne: true时 选择output的其中一个进行输出 当chooseOne: false时（默认） 输出当前配方组的每个output的物品
-      seconds: 60
+      seconds: 1
       input:
         1:
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: QUARTZ_SINGULARITY
@@ -555,6 +599,10 @@ DFD_WJKPJQIDIAN: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: QUARTZ_SINGULARITY
           amount: 64
@@ -616,15 +664,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: COPPER_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: COPPER_INGOT
           amount: 64
@@ -637,7 +687,6 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: ZINC_INGOT
@@ -646,6 +695,10 @@ DFD_WJKPJKUANGWU: #机器ID
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: ZINC_INGOT
           amount: 64
@@ -658,15 +711,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: TIN_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: TIN_INGOT
           amount: 64
@@ -679,15 +734,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: ALUMINUM_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: ALUMINUM_INGOT
           amount: 64
@@ -700,15 +757,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: SILVER_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: SILVER_INGOT
           amount: 64
@@ -721,15 +780,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: MAGNESIUM_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: MAGNESIUM_INGOT
           amount: 64
@@ -742,15 +803,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: slimefun
           material: LEAD_INGOT
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: slimefun
           material: LEAD_INGOT
           amount: 64
@@ -763,15 +826,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Gold Ingot
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Gold Ingot
           amount: 64
@@ -784,15 +849,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Iron Ingot
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Iron Ingot
           amount: 64
@@ -805,15 +872,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Diamond
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Diamond
           amount: 64
@@ -826,15 +895,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Emerald
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Emerald
           amount: 64
@@ -847,15 +918,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Netherite Ingot
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Netherite Ingot
           amount: 64
@@ -868,15 +941,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Coal
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Coal
           amount: 64
@@ -889,15 +964,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Redstone
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Redstone
           amount: 64
@@ -910,15 +987,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Lapis Lazuli
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Lapis Lazuli
           amount: 64
@@ -931,15 +1010,17 @@ DFD_WJKPJKUANGWU: #机器ID
           material_type: slimefun
           material: DFD_WJK
           amount: 1
-          noConsume: true
         2:
           material_type: mc
           material: Quartz
           amount: 1
-          noConsume: true
         #可添加更多输入物品
       output:
         1:
+          material_type: slimefun
+          material: DFD_WJK
+          amount: 1
+        2:
           material_type: mc
           material: Quartz
           amount: 64
