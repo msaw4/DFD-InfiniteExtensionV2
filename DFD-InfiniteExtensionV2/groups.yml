@@ -20,7 +20,7 @@ DFD_WJV2CAILIAO:
   type: sub
   item:
     material: Potato
-    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&7 - &f&l无尽V2材料'
+    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&#80ffff无&#92dbff尽&#a4b7ffV&#b692ff2 &7- &f&l材料'
   parent: "DFDWJV2"
 
 DFD_WJV2DIANRONG:
@@ -28,7 +28,7 @@ DFD_WJV2DIANRONG:
   type: sub
   item:
     material: Soul Lantern
-    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&7 - &b&l无尽V2电容'
+    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&#80ffff无&#92dbff尽&#a4b7ffV&#b692ff2 &7- &b&l电容'
   parent: "DFDWJV2"
   
 DFD_WJV2JIQI:
@@ -36,7 +36,7 @@ DFD_WJV2JIQI:
   type: sub
   item:
     material: Dispenser
-    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&7 - &6&l无尽V2机器'
+    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&#80ffff无&#92dbff尽&#a4b7ffV&#b692ff2 &7- &6&l机器'
   parent: "DFDWJV2"
   
 DFD_WJV2YITIJI:
@@ -44,5 +44,5 @@ DFD_WJV2YITIJI:
   type: sub
   item:
     material: Blast_Furnace
-    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&7 - &a&l无尽V2一体机'
+    name: '&l&#ff80ffD&#ff56ffF&#ff2bffD&#80ffff无&#92dbff尽&#a4b7ffV&#b692ff2 &7- &a&l一体机'
   parent: "DFDWJV2"

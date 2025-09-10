@@ -1,7 +1,7 @@
 DFD_WJXKWZZZJ: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&8&l虚空物质制造机" #机器名称
+    name: "&8&l虚空物质制造机" #机器名称
     lore: #介绍
     - '&7能将虚空卡与虚空锭融合为虚空物质'
     - ''
@@ -69,7 +69,7 @@ DFD_WJXKWZZZJ: #机器ID
 DFD_WJTSQDGZJ: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&6&l特殊奇点&b&l构造机" #机器名称
+    name: "&6&l特殊奇点&b&l构造机" #机器名称
     lore: #介绍
     - '&7制造无尽特殊的奇点'
     - ''
@@ -194,7 +194,7 @@ DFD_WJTSQDGZJ: #机器ID
 DFD_WJKPJQIDIAN: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽卡片机&7-&e&l奇点" #机器名称
+    name: "&b&l无尽卡片机&7-&e&l奇点" #机器名称
     lore: #介绍
     - '&7能无限产超多奇点并且不消耗无尽卡'
     - ''
@@ -563,7 +563,7 @@ DFD_WJKPJQIDIAN: #机器ID
 DFD_WJKPJKUANGWU: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽卡片机&7-&6&l矿物" #机器名称
+    name: "&b&l无尽卡片机&7-&6&l矿物" #机器名称
     lore: #介绍
     - '&7能无限产超多基础锭和原版矿并且不消耗无尽卡'
     - ''
@@ -948,7 +948,7 @@ DFD_WJKPJKUANGWU: #机器ID
 DFD_WJV2CHONGZU_I: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2重组机&7-&e&lI" #机器名称
+    name: "&b&l无尽V2重组机&7-&e&lI" #机器名称
     lore: #介绍
     - '&7能将某种物质重组为另一种物质'
     - ''
@@ -1156,7 +1156,7 @@ DFD_WJV2CHONGZU_I: #机器ID
 DFD_WJV2CHONGZU_II: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2重组机&7-&e&lII" #机器名称
+    name: "&b&l无尽V2重组机&7-&e&lII" #机器名称
     lore: #介绍
     - '&7能将某种物质重组为另一种物质'
     - ''
@@ -1489,7 +1489,7 @@ DFD_WJV2CHONGZU_II: #机器ID
 DFD_WJV2CHONGZU_III: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2重组机&7-&e&lIII" #机器名称
+    name: "&b&l无尽V2重组机&7-&e&lIII" #机器名称
     lore: #介绍
     - '&7能将某种物质重组为另一种物质'
     - ''
@@ -1882,7 +1882,7 @@ DFD_WJV2CHONGZU_III: #机器ID
 DFD_WJV2CHONGZU_WJBAN: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2重组机&7-&c&l无尽" #机器名称
+    name: "&b&l无尽V2重组机&7-&c&l无尽" #机器名称
     lore: #介绍
     - '&7能将某种物质重组为另一种物质'
     - ''
@@ -2313,7 +2313,7 @@ DFD_WJV2CHONGZU_WJBAN: #机器ID
 DFD_WJV2WUJINDING_SHENGCHENGQI_I: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&e&l无&6&l尽&b&l锭&f&l生成器&7-&bI" #机器名称
+    name: "&b&l无尽V2&e&l无&6&l尽&b&l锭&f&l生成器&7-&bI" #机器名称
     lore: #介绍
     - '&7能将原版矿物转化为两个无尽锭'
     - ''
@@ -2452,7 +2452,7 @@ DFD_WJV2WUJINDING_SHENGCHENGQI_I: #机器ID
 DFD_WJV2WUJINDING_SHENGCHENGQI_II: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&e&l无&6&l尽&b&l锭&f&l生成器&7-&eII" #机器名称
+    name: "&b&l无尽V2&e&l无&6&l尽&b&l锭&f&l生成器&7-&eII" #机器名称
     lore: #介绍
     - '&7能将原版矿物转化为一组无尽锭'
     - ''
@@ -2591,7 +2591,7 @@ DFD_WJV2WUJINDING_SHENGCHENGQI_II: #机器ID
 DFD_WJV2WUJINDING_XKZWJ: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&7&l虚空&b&l转&d&c无尽&b机" #机器名称
+    name: "&b&l无尽V2&7&l虚空&b&l转&d&c无尽&b机" #机器名称
     lore: #介绍
     - '&7能将四个虚空锭转化为十六个无尽锭'
     - ''
@@ -2655,7 +2655,7 @@ DFD_WJV2WUJINDING_XKZWJ: #机器ID
 DFD_WJV2WJMGYZJ: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&a&l无&e&l尽&b&l玫&d&l瑰&b&l养殖机" #机器名称
+    name: "&b&l无尽V2&a&l无&e&l尽&b&l玫&d&l瑰&b&l养殖机" #机器名称
     lore: #介绍
     - '&7养殖无尽玫瑰与虚空玫瑰'
     - ''
@@ -2742,7 +2742,7 @@ DFD_WJV2WJMGYZJ: #机器ID
 DFD_WJV2WJQDFUZHIJI: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&b&l无尽奇点复制机" #机器名称
+    name: "&b&l无尽V2&b&l无尽奇点复制机" #机器名称
     lore: #介绍
     - '&7该机器可将一个无尽奇点复制成两个'
     - ''
@@ -2806,7 +2806,7 @@ DFD_WJV2WJQDFUZHIJI: #机器ID
 DFD_WJV2WJWPHECJ: #机器ID
   item_group: DFD_WJV2JIQI #机器属组
   item:
-    name: "&dDFD&b&l无尽V2&c&l无尽&b&l物品合成机" #机器名称
+    name: "&b&l无尽V2&c&l无尽&b&l物品合成机" #机器名称
     lore: #介绍
     - '&7自动制作无尽物品'
     - ''

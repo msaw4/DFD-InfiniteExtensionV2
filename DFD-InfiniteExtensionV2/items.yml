@@ -5,10 +5,11 @@ RSC_DFD_WJV2INFO:
     name: "&6&l版本信息"
     material: book
     lore:
-    - "&d--DFD缘落之梦无尽V2重构版--"
-    - "&bversion：Release-1.0.0"
+    - "&#ff80ff-&#ff80f2-&#ff80e4D&#ff80d7F&#ff80c9D&#ff80bb无&#ff80ae尽&#ff80a0V&#ff80922&#ff8085重&#ff8077构&#ff8069版&#ff805c-&#ff804e-"
+    - "&eversion：Release-1.0.0"
     - "&b作者:熊猫(msaw4)"
     - "&b有任何建议BUG可联系作者反馈"
+    - "&b解决问题请带上版本截图"
     - "&b作者QQ:2691652195"
 
 RSC_DFD_WJV2INFOII:
